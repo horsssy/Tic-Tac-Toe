@@ -8,7 +8,7 @@ namespace C__Learning
 {
     class Program : Methods
     {
-		static bool runProg = true;
+		static bool runProg = true; 
         static char[,] board;
 		
 
