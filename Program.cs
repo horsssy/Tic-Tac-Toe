@@ -10,6 +10,7 @@ namespace C__Learning
     {
 		static bool runProg = true;
         static char[,] board;
+		
 
 		static bool turn = true;
         static void Main(string[] args)
