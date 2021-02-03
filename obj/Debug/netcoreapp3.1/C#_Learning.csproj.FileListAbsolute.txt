@@ -1,0 +1,11 @@
+C:\Users\aswin\OneDrive\Documents\C#_Learning\bin\Debug\netcoreapp3.1\C#_Learning.exe
+C:\Users\aswin\OneDrive\Documents\C#_Learning\bin\Debug\netcoreapp3.1\C#_Learning.deps.json
+C:\Users\aswin\OneDrive\Documents\C#_Learning\bin\Debug\netcoreapp3.1\C#_Learning.runtimeconfig.json
+C:\Users\aswin\OneDrive\Documents\C#_Learning\bin\Debug\netcoreapp3.1\C#_Learning.runtimeconfig.dev.json
+C:\Users\aswin\OneDrive\Documents\C#_Learning\bin\Debug\netcoreapp3.1\C#_Learning.dll
+C:\Users\aswin\OneDrive\Documents\C#_Learning\bin\Debug\netcoreapp3.1\C#_Learning.pdb
+C:\Users\aswin\OneDrive\Documents\C#_Learning\obj\Debug\netcoreapp3.1\C#_Learning.csprojAssemblyReference.cache
+C:\Users\aswin\OneDrive\Documents\C#_Learning\obj\Debug\netcoreapp3.1\C#_Learning.csproj.CoreCompileInputs.cache
+C:\Users\aswin\OneDrive\Documents\C#_Learning\obj\Debug\netcoreapp3.1\C#_Learning.dll
+C:\Users\aswin\OneDrive\Documents\C#_Learning\obj\Debug\netcoreapp3.1\C#_Learning.pdb
+C:\Users\aswin\OneDrive\Documents\C#_Learning\obj\Debug\netcoreapp3.1\C#_Learning.genruntimeconfig.cache
