@@ -79,6 +79,7 @@ namespace C__Learning
 						}
 						else
 						{
+							
 							Start();
 							turn = true;
 						}
