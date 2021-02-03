@@ -15,8 +15,8 @@ namespace C__Learning
         static void Main(string[] args)
         {
 			
-			
-            
+			//random stufffff
+            //.........	
             Start();
             
             while(runProg)
